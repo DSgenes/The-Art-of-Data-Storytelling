@@ -5,7 +5,6 @@
 # Introduction
 
    In this project, I have created a data story using Adventure Works’ data in Microsoft Power BI, aiming to showcase key insights about the company’s growth over the years. The goal was to visualize the company's performance, focusing 
-   
    on sales and profit growth, and deliver actionable insights for the CEO and stakeholders.
 
 # Objectives :
