@@ -4,8 +4,7 @@
 
 # Introduction
 
-   In this project, I have created a data story using Adventure Works’ data in Microsoft Power BI, aiming to showcase key insights about the company’s growth over the years. The goal was to visualize the company's performance, focusing 
-   on sales and profit growth, and deliver actionable insights for the CEO and stakeholders.
+In this project, I have created a data story using Adventure Works’ data in Microsoft Power BI, aiming to showcase key insights about the company’s growth over the years. The goal was to visualize the company's performance, focusing on sales and profit growth, and deliver actionable insights for the CEO and stakeholders.
 
 # Objectives :
 
@@ -87,3 +86,5 @@
 
 # Conclusion : 
 By following the above steps, I successfully created a data story that highlights Adventure Works' growth over the years. This story provides valuable insights into the company's performance and growth trajectory, helping stakeholders make informed decisions.
+
+![image_alt](https://github.com/DSgenes/The-Art-of-Data-Storytelling/blob/8fb36d216563a151a33f0b3e5cea0321e34959eb/Screenshot.png)
